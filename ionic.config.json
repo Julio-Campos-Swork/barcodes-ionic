@@ -1,0 +1,7 @@
+{
+  "name": "barcodes-app-movil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

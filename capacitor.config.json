@@ -1,0 +1,11 @@
+{
+  "appId": "barcodes.app.movil",
+  "appName": "barcodes-app-movil",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
